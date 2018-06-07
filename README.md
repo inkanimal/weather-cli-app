@@ -11,4 +11,4 @@ You will need Ruby installed on your computer to run this program. If they are n
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/inkanimal/weather-cli-app. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/inkanimal/weather-cli-app. This project is intended to be a safe, welcoming space for collaboration.
